@@ -53,6 +53,7 @@ nav.nav-inferior>ul>a:visited {
 nav.nav-inferior>ul>a>li {
     background: rgba(255, 99, 71);
     display: inline-block;
+    font-family: 'Prompt', sans-serif;
     margin: 10px -1px;
     padding: 10px 0px;
     text-align: center;
