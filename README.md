@@ -1,6 +1,6 @@
 # Projeto passando conhecimento
 
-- [Link para acessar o Projeto](https://guilherme-artigas.github.io/projeto-passando-conhecimento/)
+- [Link para acessar o Projeto](https://guilherme-artigas.github.io/Projeto-Passando-Conhecimento/)
 
 Criei este projeto com o intuito de por em pratica conhecimentos aprendidos durante durante aulas de HTML e CSS sempre preocupado em manter a semântica ideal para o HTML e um CSS bonito e o mais simples possível tudo isso com um código bem organizado.
 
